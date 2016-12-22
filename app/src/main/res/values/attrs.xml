@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundIndicatorView">
+        <attr name = "maxNum" format="integer"></attr>
+        <attr name = "startAngle" format="integer"></attr>
+        <attr name = "sweepAngle" format="integer"></attr>
+    </declare-styleable>
+</resources>
